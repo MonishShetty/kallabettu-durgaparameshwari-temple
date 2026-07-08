@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="180" viewBox="0 0 180 180" role="img" aria-label="Sample committee portrait">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="1" y2="0"><stop offset="0" stop-color="#e8f2ee"/><stop offset="1" stop-color="#fff6e8"/></linearGradient>
+    <radialGradient id="light" cx=".32" cy=".25" r=".75"><stop offset="0" stop-color="#fffdf8"/><stop offset="1" stop-color="#173f36" stop-opacity=".18"/></radialGradient>
+  </defs>
+  <rect width="180" height="180" fill="url(#bg)"/>
+  <rect width="180" height="180" fill="url(#light)"/>
+  <path d="M52 74c4-28 20-43 38-43s34 15 38 43c-11-8-25-12-38-12s-27 4-38 12z" fill="#1f2925"/>
+  <circle cx="90" cy="85" r="35" fill="#c58b61"/>
+  <path d="M39 180c9-45 40-70 51-70s42 25 51 70z" fill="#b47a2b"/>
+  <path d="M61 180c8-25 23-39 29-39s21 14 29 39z" fill="#173f36"/>
+</svg>
