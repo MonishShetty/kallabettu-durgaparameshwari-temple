@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="240" viewBox="0 0 240 240" role="img" aria-label="Committee member photo placeholder">
+  <rect width="240" height="240" fill="#e8f2ee"/>
+  <circle cx="120" cy="92" r="44" fill="#173f36"/>
+  <path d="M42 220c8-48 46-78 78-78s70 30 78 78" fill="#a83224"/>
+  <path d="M64 220c10-34 42-54 56-54s46 20 56 54" fill="#b47a2b" opacity=".65"/>
+  <circle cx="120" cy="120" r="111" fill="none" stroke="#b47a2b" stroke-width="6" opacity=".5"/>
+</svg>
