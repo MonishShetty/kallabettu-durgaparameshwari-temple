@@ -37,6 +37,16 @@ export default function Footer() {
           <EHundiButton variant="secondary" />
         </div>
       </div>
+      <p className="footer-credit">
+        Crafted with care by{" "}
+        <a
+          href="https://www.linkedin.com/in/monish-h-shetty-258928252/"
+          rel="noreferrer"
+          target="_blank"
+        >
+          Moni
+        </a>
+      </p>
     </footer>
   );
 }
