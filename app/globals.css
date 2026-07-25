@@ -911,6 +911,25 @@ h3 {
   color: #ffdca4;
 }
 
+.footer-credit {
+  border-top: 1px solid rgba(255, 255, 255, 0.12);
+  color: rgba(255, 255, 255, 0.62);
+  font-size: 0.88rem;
+  line-height: 1.5;
+  margin: 34px auto 0;
+  max-width: 1180px;
+  padding: 20px 28px 0;
+}
+
+.footer-credit a {
+  color: #ffdca4;
+  font-weight: 800;
+}
+
+.footer-credit a:hover {
+  color: var(--white);
+}
+
 @media (max-width: 1040px) {
   .desktop-nav,
   .header-direction,
