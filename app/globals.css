@@ -991,6 +991,10 @@ h3 {
     padding-right: 20px;
   }
 
+  .footer-credit {
+    text-align: center;
+  }
+
   .brand strong {
     font-size: 0.9rem;
     max-width: 190px;
