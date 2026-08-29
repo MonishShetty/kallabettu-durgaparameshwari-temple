@@ -40,7 +40,7 @@ export default function Footer() {
       <p className="footer-credit">
         Crafted with care by{" "}
         <a
-          href="https://www.linkedin.com/in/monish-h-shetty-258928252/"
+          href="https://monish-h-shetty.vercel.app/"
           rel="noreferrer"
           target="_blank"
         >
